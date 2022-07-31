@@ -1,4 +1,4 @@
-# Proyecto Integrador 4to ciclo Programación Avanzada
+# Proyecto Integrador 4to ciclo Memoria Final
 ## Integrantes:
 - Luna Díaz Julio César
 - Martinez Pucha Edgar David 
